@@ -1,0 +1,3 @@
+bucket              = "devops-terraform-state-510040388510-us-east-1"
+dynamodb_table      = "devops-terraform-state"
+region              = "us-east-1"
